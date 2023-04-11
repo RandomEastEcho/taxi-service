@@ -2,13 +2,14 @@
 This project is imitation of Taxi-Service. Created with usage of Tomcat and SQL.
 ## Features
 <ul>
-  <li> Authentication service via Driver registration</li>
+  <li> Authentication service</li>
   <li> Create and delete manufacturer</li>
   <li> Create and delete driver</li>
   <li> Create and delete car</li>
   <li> Ability to add drivers to specific car</li>
   <li> Ability to display all cars belonging to the current driver</li>
   <li> Display all existent cars, manufacturers and drivers</li>
+  <li>Project supports CRUD (Create Read Update Delete) operations</li>
 </ul>
 
 ## Getting Started
@@ -63,4 +64,4 @@ This project is imitation of Taxi-Service. Created with usage of Tomcat and SQL.
 </ul>
 
 ## Authors
-Gleb Iaroshevych
+<a href="https://github.com/RandomEastEcho">Gleb Iaroshevych</a>
